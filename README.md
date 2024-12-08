@@ -1,1 +1,1 @@
-# Sales-Data-Analysis-Using-SQL
+# As part of a guided project I queried data using SQl to reinforce my knowledge by applying applying advanced techniques like joins, grouping, and aggregate functions. The data was of Bike sales in regions and by product category. The final resul was then directly connected to PowerBi where I created insightful dashboards to display the key KPIs in a more simple yet concise manner. 
